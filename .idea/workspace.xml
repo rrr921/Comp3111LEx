@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3883043-7a54-47b4-b4cb-0e41641c082e" name="更改" comment="Additions to the initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c3883043-7a54-47b4-b4cb-0e41641c082e" name="更改" comment="Screenshot 1">
       <change beforePath="$PROJECT_DIR$/src/main/java/Lab1/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab1/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +88,7 @@
       <updated>1725951249607</updated>
       <workItem from="1725951251088" duration="935000" />
       <workItem from="1725952200530" duration="4674000" />
-      <workItem from="1726338858345" duration="4166000" />
+      <workItem from="1726338858345" duration="4480000" />
     </task>
     <task id="LOCAL-00001" summary="This is an initial commit for Comp3111LEx Project">
       <option name="closed" value="true" />
@@ -131,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726341959571</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Screenshot 1">
+      <option name="closed" value="true" />
+      <created>1726343798973</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726343798973</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +161,8 @@
     <MESSAGE value="Add 3rd print line" />
     <MESSAGE value="new readme to introduce the repository" />
     <MESSAGE value="Additions to the initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Additions to the initial commit" />
+    <MESSAGE value="Screenshot 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Screenshot 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
